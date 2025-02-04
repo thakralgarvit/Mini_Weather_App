@@ -1,0 +1,13 @@
+.Searchbox {
+  text-align: center !important;
+}
+
+.crad-container {
+  display: flex;
+  justify-content: center;
+}
+
+.box-search {
+  display: flex;
+  justify-content: center;
+}
